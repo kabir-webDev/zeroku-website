@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/zeroku-website/static/css/main.395deab6.chunk.css",
+    "main.js": "/zeroku-website/static/js/main.df80fc4a.chunk.js",
+    "main.js.map": "/zeroku-website/static/js/main.df80fc4a.chunk.js.map",
+    "runtime-main.js": "/zeroku-website/static/js/runtime-main.2aa8cf7e.js",
+    "runtime-main.js.map": "/zeroku-website/static/js/runtime-main.2aa8cf7e.js.map",
+    "static/js/2.2aa4b215.chunk.js": "/zeroku-website/static/js/2.2aa4b215.chunk.js",
+    "static/js/2.2aa4b215.chunk.js.map": "/zeroku-website/static/js/2.2aa4b215.chunk.js.map",
+    "index.html": "/zeroku-website/index.html",
+    "precache-manifest.ff83b5af6a22437095e7cd78f799e35b.js": "/zeroku-website/precache-manifest.ff83b5af6a22437095e7cd78f799e35b.js",
+    "service-worker.js": "/zeroku-website/service-worker.js",
+    "static/css/main.395deab6.chunk.css.map": "/zeroku-website/static/css/main.395deab6.chunk.css.map",
+    "static/js/2.2aa4b215.chunk.js.LICENSE.txt": "/zeroku-website/static/js/2.2aa4b215.chunk.js.LICENSE.txt",
+    "static/media/cli.png": "/zeroku-website/static/media/cli.f496512b.png",
+    "static/media/cloud.png": "/zeroku-website/static/media/cloud.9ed3fec3.png",
+    "static/media/docs.png": "/zeroku-website/static/media/docs.c300cf81.png",
+    "static/media/server.png": "/zeroku-website/static/media/server.9a37db31.png",
+    "static/media/server2.png": "/zeroku-website/static/media/server2.1b24f9d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa8cf7e.js",
+    "static/js/2.2aa4b215.chunk.js",
+    "static/css/main.395deab6.chunk.css",
+    "static/js/main.df80fc4a.chunk.js"
+  ]
+}
